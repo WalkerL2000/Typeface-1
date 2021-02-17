@@ -195,6 +195,30 @@ z-index: 0;
       left: 60px;
     }
 
+/* hover hover hover hover */
+
+/* Not Working
+	#x4:hover {
+	color: blue;
+	}
+*/
+
+ #x4:hover {
+ 	visibility: hidden;
+ }
+
+ #x5:hover {
+ 	visibility: hidden;
+ }
+
+ #x6:hover {
+ 	visibility: hidden;
+ }
+
+ #x7:hover {
+ 	visibility: hidden;
+ }
+
 
 
 
