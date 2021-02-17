@@ -1,0 +1,200 @@
+body{ 
+
+}
+	
+.Typeface{
+position: relative;
+width: 100px;
+height: 100px;
+background: lightgray;
+z-index: 0;
+}
+
+/* X4 X4 X4 X4 X4 X4 X4 */ 
+
+
+	.trtX4Y2 {
+      width: 0;
+      height: 0;
+      border-top: 10px solid black;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 30px;
+    }
+
+    .boxX4Y3{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+    }
+
+    .boxX4Y4{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 60px;
+      left: 30px;
+    }
+
+    .boxX4Y5{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 50px;
+      left: 30px;
+    }
+	.bltX4Y6 {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid black;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 40px;
+      left: 30px;
+    }
+
+    .boxX4Y7{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 30px;
+      left: 30px;
+  	}
+
+  	.boxX4Y8{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  	}
+
+  	.bltX4Y9 {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid black;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+    }
+
+/* X5 X5 X5 X5 X5 X5 X5 */
+
+	.trtX5Y5 {
+      width: 0;
+      height: 0;
+      border-top: 10px solid black;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 50px;
+      left: 40px;
+    }
+
+    .boxX5Y8{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 20px;
+      left: 40px;
+  	}
+
+/* x6 x6 x6 x6 x6 x6 x6 x6 */
+
+	.boxX6Y5{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+  	}
+
+  	.boxX6Y8{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 20px;
+      left: 50px;
+  	}
+
+/* x7 x7 x7 x7 x7 x7 x7 x7 x7 */
+
+	.trtX7Y2 {
+      width: 0;
+      height: 0;
+      border-top: 10px solid black;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 60px;
+    }
+
+    .boxX7Y3{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 70px;
+      left: 60px;
+    }
+
+    .boxX7Y4{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 60px;
+      left: 60px;
+    }
+
+    .boxX7Y5{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+    }
+	.boxX7Y6 {
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 40px;
+      left: 60px;
+    }
+
+    .boxX7Y7{
+      width: 10px;
+      height: 10px;
+      background: black;
+      position: absolute;
+      top: 30px;
+      left: 60px;
+  	}
+
+
+  	.bltX7Y8 {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid black;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 20px;
+      left: 60px;
+    }
+
+
+
+
