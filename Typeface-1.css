@@ -2,12 +2,12 @@ body{
 
 }
 	
-.Typeface{
-position: relative;
-width: 100px;
-height: 100px;
-background: lightgray;
-z-index: 0;
+.TypefaceA {
+	position: relative;
+    width: 100px;
+    height: 100px;
+    background: lightgray;
+    z-index: 0;
 }
 
 /* Background Colors */
@@ -351,6 +351,382 @@ z-index: 0;
  	}
 
  	.bx10:hover {
+ 		background: #0d47a1;
+ 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TypefaceB {
+	position: relative;
+    bottom: 100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background: lightgray;
+    z-index: 0;
+}
+
+/* Background Colors */
+
+
+	.bx1B {
+	  width: 10px;
+      height: 100px;
+      background: #0d47a1;
+      position: absolute;
+      top: 0px;
+      left: 00px;
+	}
+
+	.bx2B {
+	  width: 10px;
+      height: 100px;
+      background: #1565c0;
+      position: absolute;
+      top: 0px;
+      left: 10px;
+	}
+
+	.bx3B {
+	  width: 10px;
+      height: 100px;
+      background: #1976d2;
+      position: absolute;
+      top: 0px;
+      left: 20px;
+	}
+
+	.bx4B {
+	  width: 10px;
+      height: 100px;
+      background: #1e88e5;
+      position: absolute;
+      top: 0px;
+      left: 30px;
+	}
+
+	.bx5B {
+	  width: 10px;
+      height: 100px;
+      background: #2196f3;
+      position: absolute;
+      top: 0px;
+      left: 40px;
+	}
+
+	.bx6B {
+	  width: 10px;
+      height: 100px;
+      background: #42a5f5;
+      position: absolute;
+      top: 0px;
+      left: 50px;
+	}
+
+	.bx7B {
+	  width: 10px;
+      height: 100px;
+      background: #64b5f6;
+      position: absolute;
+      top: 0px;
+      left: 60px;
+	}
+
+	.bx8B {
+	  width: 10px;
+      height: 100px;
+      background: #90caf9;
+      position: absolute;
+      top: 0px;
+      left: 70px;
+	}
+
+	.bx9B {
+	  width: 10px;
+      height: 100px;
+      background: #bbdefb;
+      position: absolute;
+      top: 0px;
+      left: 80px;
+	}
+
+	.bx10B {
+	  width: 10px;
+      height: 100px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 0px;
+      left: 90px;
+	}
+
+
+/* X4 X4 X4 X4 X4 X4 X4 */ 
+
+
+	.trtX4Y2B {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 30px;
+    }
+
+    .boxX4Y3B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+    }
+
+    .boxX4Y4B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 60px;
+      left: 30px;
+    }
+
+    .boxX4Y5B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 30px;
+    }
+	.bltX4Y6B {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 40px;
+      left: 30px;
+    }
+
+    .boxX4Y7B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 30px;
+      left: 30px;
+  	}
+
+  	.boxX4Y8B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+  	}
+
+  	.bltX4Y9B {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+    }
+
+/* X5 X5 X5 X5 X5 X5 X5 */
+
+	.trtX5Y5B {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 50px;
+      left: 40px;
+    }
+
+    .boxX5Y8B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 40px;
+  	}
+
+/* x6 x6 x6 x6 x6 x6 x6 x6 */
+
+	.boxX6Y5B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+  	}
+
+  	.boxX6Y8B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 50px;
+  	}
+
+/* x7 x7 x7 x7 x7 x7 x7 x7 x7 */
+
+	.trtX7Y2B {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 60px;
+    }
+
+    .boxX7Y3B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 70px;
+      left: 60px;
+    }
+
+    .boxX7Y4B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 60px;
+      left: 60px;
+    }
+
+    .boxX7Y5B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+    }
+	.boxX7Y6B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 60px;
+    }
+
+    .boxX7Y7B {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 30px;
+      left: 60px;
+  	}
+
+
+  	.bltX7Y8B {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 20px;
+      left: 60px;
+    }
+
+/* hover hover hover hover */
+
+/* Not Working
+	#x4:hover {
+	color: blue;
+	}
+*/
+
+ #x4B:hover {
+ 	visibility: hidden;
+ }
+
+ #x5B:hover {
+ 	visibility: hidden;
+ }
+
+ #x6B:hover {
+ 	visibility: hidden;
+ }
+
+ #x7B:hover {
+ 	visibility: hidden;
+ }
+
+ 	.bx1B:hover {
+ 		background: #e3f2fd;
+ 	}
+
+ 	.bx2B:hover {
+ 		background: #bbdefb;
+ 	}
+
+ 	.bx3B:hover {
+ 		background: #90caf9;
+ 	}
+
+ 	.bx4B:hover {
+ 		background: #64b5f6;
+ 	}
+
+ 	.bx5B:hover {
+ 		background: #42a5f5;
+ 	}
+
+ 	.bx6B:hover {
+ 		background: #2196f3;
+ 	}
+
+ 	.bx7B:hover {
+ 		background: #1e88e5;
+
+ 	}
+
+ 	.bx8B:hover {
+ 		background: #1976d2;
+ 	}
+
+ 	.bx9B:hover {
+ 		background: #1565c0;
+ 	}
+
+ 	.bx10B:hover {
  		background: #0d47a1;
  	}
 
