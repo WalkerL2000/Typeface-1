@@ -2,7 +2,7 @@ body{
 
 }
 	
-.TypefaceA {
+.TypefaceAAA {
 	position: relative;
     width: 100px;
     height: 100px;
@@ -13,7 +13,7 @@ body{
 /* Background Colors */
 
 
-	.bx1 {
+	.bx1AAA {
 	  width: 10px;
       height: 100px;
       background: #0d47a1;
@@ -22,7 +22,7 @@ body{
       left: 00px;
 	}
 
-	.bx2 {
+	.bx2AAA {
 	  width: 10px;
       height: 100px;
       background: #1565c0;
@@ -31,7 +31,7 @@ body{
       left: 10px;
 	}
 
-	.bx3 {
+	.bx3AAA {
 	  width: 10px;
       height: 100px;
       background: #1976d2;
@@ -40,7 +40,7 @@ body{
       left: 20px;
 	}
 
-	.bx4 {
+	.bx4AAA {
 	  width: 10px;
       height: 100px;
       background: #1e88e5;
@@ -49,7 +49,7 @@ body{
       left: 30px;
 	}
 
-	.bx5 {
+	.bx5AAA {
 	  width: 10px;
       height: 100px;
       background: #2196f3;
@@ -58,7 +58,7 @@ body{
       left: 40px;
 	}
 
-	.bx6 {
+	.bx6AAA {
 	  width: 10px;
       height: 100px;
       background: #42a5f5;
@@ -67,7 +67,7 @@ body{
       left: 50px;
 	}
 
-	.bx7 {
+	.bx7AAA {
 	  width: 10px;
       height: 100px;
       background: #64b5f6;
@@ -76,7 +76,7 @@ body{
       left: 60px;
 	}
 
-	.bx8 {
+	.bx8AAA {
 	  width: 10px;
       height: 100px;
       background: #90caf9;
@@ -85,7 +85,7 @@ body{
       left: 70px;
 	}
 
-	.bx9 {
+	.bx9AAA {
 	  width: 10px;
       height: 100px;
       background: #bbdefb;
@@ -94,7 +94,7 @@ body{
       left: 80px;
 	}
 
-	.bx10 {
+	.bx10AAA {
 	  width: 10px;
       height: 100px;
       background: #e3f2fd;
@@ -107,7 +107,7 @@ body{
 /* X4 X4 X4 X4 X4 X4 X4 */ 
 
 
-	.trtX4Y2 {
+	.trtX4Y2AAA {
       width: 0;
       height: 0;
       border-top: 10px solid white;
@@ -117,7 +117,7 @@ body{
       left: 30px;
     }
 
-    .boxX4Y3{
+    .boxX4Y3AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -126,7 +126,7 @@ body{
       left: 30px;
     }
 
-    .boxX4Y4{
+    .boxX4Y4AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -135,7 +135,7 @@ body{
       left: 30px;
     }
 
-    .boxX4Y5{
+    .boxX4Y5AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -143,7 +143,7 @@ body{
       top: 50px;
       left: 30px;
     }
-	.bltX4Y6 {
+	.bltX4Y6AAA {
       width: 0;
       height: 0;
       border-bottom: 10px solid white;
@@ -153,7 +153,7 @@ body{
       left: 30px;
     }
 
-    .boxX4Y7{
+    .boxX4Y7AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -162,7 +162,7 @@ body{
       left: 30px;
   	}
 
-  	.boxX4Y8{
+  	.boxX4Y8AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -171,7 +171,7 @@ body{
       left: 30px;
   	}
 
-  	.bltX4Y9 {
+  	.bltX4Y9AAA {
       width: 0;
       height: 0;
       border-bottom: 10px solid white;
@@ -183,7 +183,7 @@ body{
 
 /* X5 X5 X5 X5 X5 X5 X5 */
 
-	.trtX5Y5 {
+	.trtX5Y5AAA {
       width: 0;
       height: 0;
       border-top: 10px solid white;
@@ -193,7 +193,7 @@ body{
       left: 40px;
     }
 
-    .boxX5Y8{
+    .boxX5Y8AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -204,7 +204,7 @@ body{
 
 /* x6 x6 x6 x6 x6 x6 x6 x6 */
 
-	.boxX6Y5{
+	.boxX6Y5AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -213,7 +213,7 @@ body{
       left: 50px;
   	}
 
-  	.boxX6Y8{
+  	.boxX6Y8AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -224,7 +224,7 @@ body{
 
 /* x7 x7 x7 x7 x7 x7 x7 x7 x7 */
 
-	.trtX7Y2 {
+	.trtX7Y2AAA {
       width: 0;
       height: 0;
       border-top: 10px solid white;
@@ -234,7 +234,7 @@ body{
       left: 60px;
     }
 
-    .boxX7Y3{
+    .boxX7Y3AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -243,7 +243,7 @@ body{
       left: 60px;
     }
 
-    .boxX7Y4{
+    .boxX7Y4AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -252,7 +252,7 @@ body{
       left: 60px;
     }
 
-    .boxX7Y5{
+    .boxX7Y5AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -260,7 +260,7 @@ body{
       top: 50px;
       left: 60px;
     }
-	.boxX7Y6 {
+	.boxX7Y6AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -269,7 +269,7 @@ body{
       left: 60px;
     }
 
-    .boxX7Y7{
+    .boxX7Y7AAA {
       width: 10px;
       height: 10px;
       background: white;
@@ -279,7 +279,7 @@ body{
   	}
 
 
-  	.bltX7Y8 {
+  	.bltX7Y8AAA {
       width: 0;
       height: 0;
       border-bottom: 10px solid white;
@@ -288,6 +288,21 @@ body{
       top: 20px;
       left: 60px;
     }
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
 /* hover hover hover hover */
 
@@ -732,4 +747,590 @@ body{
 
 
 
+
+
+
+
+
+
+
+.TypefaceHHH {
+  position: relative;
+    bottom: 100px;
+    left: 100px;
+    width: 100px;
+    height: 100px;
+    background: lightgray;
+    z-index: 0;
+}
+
+/* Background Colors */
+
+
+  .bx1HHH {
+    width: 10px;
+      height: 100px;
+      background: #0d47a1;
+      position: absolute;
+      top: 0px;
+      left: 00px;
+  }
+
+  .bx2HHH {
+    width: 10px;
+      height: 100px;
+      background: #1565c0;
+      position: absolute;
+      top: 0px;
+      left: 10px;
+  }
+
+  .bx3HHH {
+    width: 10px;
+      height: 100px;
+      background: #1976d2;
+      position: absolute;
+      top: 0px;
+      left: 20px;
+  }
+
+  .bx4HHH {
+    width: 10px;
+      height: 100px;
+      background: #1e88e5;
+      position: absolute;
+      top: 0px;
+      left: 30px;
+  }
+
+  .bx5HHH {
+    width: 10px;
+      height: 100px;
+      background: #2196f3;
+      position: absolute;
+      top: 0px;
+      left: 40px;
+  }
+
+  .bx6HHH {
+    width: 10px;
+      height: 100px;
+      background: #42a5f5;
+      position: absolute;
+      top: 0px;
+      left: 50px;
+  }
+
+  .bx7HHH {
+    width: 10px;
+      height: 100px;
+      background: #64b5f6;
+      position: absolute;
+      top: 0px;
+      left: 60px;
+  }
+
+  .bx8HHH {
+    width: 10px;
+      height: 100px;
+      background: #90caf9;
+      position: absolute;
+      top: 0px;
+      left: 70px;
+  }
+
+  .bx9HHH {
+    width: 10px;
+      height: 100px;
+      background: #bbdefb;
+      position: absolute;
+      top: 0px;
+      left: 80px;
+  }
+
+  .bx10HHH {
+    width: 10px;
+      height: 100px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 0px;
+      left: 90px;
+  }
+
+
+/* X4 X4 X4 X4 X4 X4 X4 */ 
+
+
+  .trtX4Y2HHH {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 30px;
+    }
+
+    .boxX4Y3HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+    }
+
+    .boxX4Y4HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 60px;
+      left: 30px;
+    }
+
+    .boxX4Y5HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 30px;
+    }
+  .boxX4Y6HHH {
+     width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 30px;
+    }
+
+    .bltX4Y7HHH {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 30px;
+      left: 30px;
+    }
+
+    .boxX4Y8HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+    }
+
+    .bltX4Y9HHH {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+    }
+
+/* X5 X5 X5 X5 X5 X5 X5 */
+
+  .trtX5Y6HHH {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 40px;
+      left: 40px;
+    }
+
+
+/* x6 x6 x6 x6 x6 x6 x6 x6 */
+
+  .boxX6Y6HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 50px;
+    }
+
+
+/* x7 x7 x7 x7 x7 x7 x7 x7 x7 */
+
+ .boxX7Y6HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 60px;
+    }
+
+/* x8 x8 x8 x8 x8 x8 x8 x8 x8x 8 */
+
+  .trtX8Y2HHH {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 70px;
+    }
+
+    .boxX8Y3HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 70px;
+      left: 70px;
+    }
+
+    .boxX8Y4HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 60px;
+      left: 70px;
+    }
+
+    .boxX8Y5HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 70px;
+    }
+  .boxX8Y6HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 70px;
+    }
+
+    .boxX8Y7HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 30px;
+      left: 70px;
+    }
+
+    .boxX8Y8HHH {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 70px;
+    }
+
+
+    .bltX8Y9HHH {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 70px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TypefaceEEE {
+  position: relative;
+    width: 100px;
+    height: 100px;
+    background: lightgray;
+    z-index: 0;
+}
+
+/* Background Colors */
+
+
+  .bx1EEE {
+    width: 10px;
+      height: 100px;
+      background: #0d47a1;
+      position: absolute;
+      top: 0px;
+      left: 00px;
+  }
+
+  .bx2EEE {
+    width: 10px;
+      height: 100px;
+      background: #1565c0;
+      position: absolute;
+      top: 0px;
+      left: 10px;
+  }
+
+  .bx3EEE {
+    width: 10px;
+      height: 100px;
+      background: #1976d2;
+      position: absolute;
+      top: 0px;
+      left: 20px;
+  }
+
+  .bx4EEE {
+    width: 10px;
+      height: 100px;
+      background: #1e88e5;
+      position: absolute;
+      top: 0px;
+      left: 30px;
+  }
+
+  .bx5EEE {
+    width: 10px;
+      height: 100px;
+      background: #2196f3;
+      position: absolute;
+      top: 0px;
+      left: 40px;
+  }
+
+  .bx6EEE {
+    width: 10px;
+      height: 100px;
+      background: #42a5f5;
+      position: absolute;
+      top: 0px;
+      left: 50px;
+  }
+
+  .bx7EEE {
+    width: 10px;
+      height: 100px;
+      background: #64b5f6;
+      position: absolute;
+      top: 0px;
+      left: 60px;
+  }
+
+  .bx8EEE {
+    width: 10px;
+      height: 100px;
+      background: #90caf9;
+      position: absolute;
+      top: 0px;
+      left: 70px;
+  }
+
+  .bx9EEE {
+    width: 10px;
+      height: 100px;
+      background: #bbdefb;
+      position: absolute;
+      top: 0px;
+      left: 80px;
+  }
+
+  .bx10EEE {
+    width: 10px;
+      height: 100px;
+      background: #e3f2fd;
+      position: absolute;
+      top: 0px;
+      left: 90px;
+  }
+
+
+/* X4 X4 X4 X4 X4 X4 X4 */ 
+
+
+  .trtX4Y2EEE {
+      width: 0;
+      height: 0;
+      border-top: 10px solid white;
+      border-left: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 30px;
+    }
+
+    .boxX4Y3EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 70px;
+      left: 30px;
+    }
+
+    .boxX4Y4EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 60px;
+      left: 30px;
+    }
+
+    .boxX4Y5EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 30px;
+    }
+  .boxX4Y6EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 40px;
+      left: 30px;
+    }
+
+    .bltX4Y7EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+
+      top: 30px;
+      left: 30px;
+    }
+
+    .boxX4Y8EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 30px;
+    }
+
+    .bltX4Y9EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 10px;
+      left: 30px;
+    }
+
+/* X5 X5 X5 X5 X5 X5 X5 */
+
+   .boxX5Y3EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 80px;
+      left: 40px;
+    }
+
+    .boxX5Y5EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 40px;
+    }
+
+    .boxX5Y8EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 40px;
+    }
+
+
+/* x6 x6 x6 x6 x6 x6 x6 x6 */
+
+  .boxX6Y3EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 80px;
+      left: 50px;
+    }
+
+
+
+  .boxX6Y5EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 50px;
+      left: 50px;
+    }
+
+    .boxX6Y8EEE {
+      width: 10px;
+      height: 10px;
+      background: white;
+      position: absolute;
+      top: 20px;
+      left: 50px;
+    }
+
+/* x7 x7 x7 x7 x7 x7 x7 x7 x7 */
+
+  .bltX7Y2EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 80px;
+      left: 60px;
+    }
+
+
+    .bltX7Y5EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 50px;
+      left: 60px;
+    }
+
+
+    .bltX7Y8EEE {
+      width: 0;
+      height: 0;
+      border-bottom: 10px solid white;
+      border-right: 10px solid transparent;
+      position: absolute;
+      top: 20px;
+      left: 60px;
+    }
 
